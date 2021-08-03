@@ -1,2 +1,3 @@
-# haikuos-chinese-translate
-HaikuOS Chinese Translate Project
+# HaikuOS 中文翻译计划
+---
+
